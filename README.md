@@ -50,7 +50,7 @@ Early development — design and scaffolding phase.
 
 ## License
 
-TODO: add a license (no license file is currently present in this repo).
+MIT — see the [LICENSE](LICENSE) file.
 
 ## Contact
 
